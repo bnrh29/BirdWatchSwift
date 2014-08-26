@@ -1,4 +1,5 @@
 BirdWatchSwift
 ==============
 
-２つ目のiOSアプリケーション
+２つ目のiOSアプリケーション(xcode beta6対応)
+
